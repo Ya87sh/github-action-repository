@@ -10,7 +10,7 @@ on:
 
 # Defining a job named 'build' that consists of a series of steps to execute
 jobs:
-  build:
+  test:
     # Specifies the operating system and environment where the job will run.
     runs-on: ubuntu-latest
 
